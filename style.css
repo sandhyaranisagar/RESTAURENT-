@@ -1,0 +1,18 @@
+#hero {
+  width: 100%;
+  height: 100vh;
+  background: url("./Images/about-bg.jpg") top center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 0;
+}
+.section-title h2{
+  color:peru;
+}
+.section-title p{
+  color: violet;
+}
+li{
+  list-style-type: none;
+}
